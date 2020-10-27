@@ -1,5 +1,7 @@
 # TASSIC
 
+![chip](assets/chip-300x300.png)
+
 **The Transparent Authenticated Secure Storage Integrated Circuit (TASSIC)** from Tropic Square is a cryptographically and physically secured, non-volatile storage chip.
 
 TASSIC is designed for the special purpose of handling digital secrets and serving as a fundamental building block for digital trust, in a minimalistic implementation. Its cryptographic key management and ability to derive a digital unique identity secures storage in embedded systems and trusted digital devices.
