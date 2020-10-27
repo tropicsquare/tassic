@@ -1,4 +1,4 @@
-# TASSIC - Transparent Authenticated Secure Storage Integrated Circuit
+# TASSIC
 
 **The Transparent Authenticated Secure Storage Integrated Circuit (TASSIC)** from Tropic Square is a cryptographically and physically secured, non-volatile storage chip.
 
@@ -25,4 +25,4 @@ Serial interfaces and compatibility with the ISO 7816-3 protocol positions TASSI
 
 ## Flyer
 
-[download PDF](assets/TASSIC_Tropic_Square_Flyer.pdf)
+* [download PDF](assets/TASSIC_Tropic_Square_Flyer.pdf)
