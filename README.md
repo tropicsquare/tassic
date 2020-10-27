@@ -1,6 +1,6 @@
 # TASSIC
 
-![chip](assets/chip-300x300.png)
+<img alt="chip" src="assets/chip-300x300.png" width="200">
 
 **The Transparent Authenticated Secure Storage Integrated Circuit (TASSIC)** from Tropic Square is a cryptographically and physically secured, non-volatile storage chip.
 
