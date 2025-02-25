@@ -4,13 +4,12 @@
 
 [TROPIC01 product page](https://tropicsquare.com/tropic01) at tropicsquare.com
 
-Datasheet 
+[TROPIC01 Datasheet](/doc/datasheet/ODD_tropic01_datasheet_revA6.pdf) 
 
-API documentation 
 
-Samples 
+[Samples request form](https://tropicsquare.com/tropic01-samples)
 
-Secure channel presentation 
+[Secure channel presentation](https://cdn.prod.website-files.com/625faf6f5e93e941317bb67f/66e981e79dee26dc81650c11_ches24_jerabek_final_key.pdf)
 
 # Development support 
 
