@@ -21,8 +21,9 @@
   * USB stick formfactor
   * STM32 and TROPIC01 for applications development
   * STM32 implements usb2spi convertor
-  * API protocol over terminal 
+  * API protocol over terminal
 
+    ![TS13](/doc/boards/ts1301_top_assembled.png)
 
   ### Mikroe Click board
   * picture and details coming soon 
