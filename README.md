@@ -15,7 +15,7 @@
 
   ## Development kits and target boards
 
- Visit Tropic Square at booth 5-373 at  at Embedded World 2025 to get board and samples.
+ Visit Tropic Square at [booth 5-373 at Embedded World 2025](https://tropicsquare.com/tropic-square-at-embedded-world-2025) to get board and samples.
 
   ### USB stick with TROPIC01 
   * USB stick formfactor
@@ -42,7 +42,7 @@
    
 
  ### TS validation board TS01 + TS02
-    For security evaluation we can provide boards used for validation and characterization.  Setiup allows full white box access and open chip configuration.
+    For security evaluation we can provide boards used for validation and characterization.  Setup allows full white box access and open chip configuration.
 
 
 
